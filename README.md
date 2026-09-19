@@ -1,4 +1,4 @@
-```markdown
+
 # Cert Generator
 
 This project aims to automate the generation of certificates from an Excel dataset. It involves data analysis for cleaning and formatting, enhancing Python concepts, and exploring third-party libraries, specifically `reportlab`, for PDF generation.
